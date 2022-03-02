@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/victor-toupitzen-specian" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
-## Total de visitas no meu perfil :detective: <br>
+## Total visits to my profile :detective: <br>
   
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/victorts1991/count.svg" />
