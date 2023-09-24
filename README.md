@@ -1,4 +1,4 @@
-## Hello there, I'm Victor, React developer.
+## Hello there, I'm Victor.
 
 <div align="center">
   <a href="https://github.com/victorts1991">
