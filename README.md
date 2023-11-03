@@ -1,11 +1,11 @@
 ## Hello there, I'm Victor.
 
-Bachelor in Information Systems, studying Specialization in Software Architecture, experience with development for over 12 years.
+Studying Specialization in Software Architecture at FIAP. Bachelor in Information Systems from the University of Mogi das Cruzes. Development experience for over 12 years.
 
 - Development of Front end and Mobile applications;
 - Integrations with Firebase libraries;
 - Creation of CI/CD scripts for api's, front-end's and mobile apps;
-- Publishing applications on Google Play and Apple Store;
+- Publishing apps on Google Play and Apple Store;
 
 <br/>
 
