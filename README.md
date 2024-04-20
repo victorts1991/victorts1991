@@ -2,7 +2,7 @@
 
 Studying Specialization in Software Architecture at FIAP. Bachelor in Information Systems from the University of Mogi das Cruzes. Development experience for over 12 years.
 
-- Container Orchestration with GKE;
+- Container Orchestration with Docker and Kubernetes;
 - Creation of CI/CD scripts for api's, front-end's and mobile apps;
 - Publishing apps on Google Play and Apple Store;
 - Development of Front end and Mobile applications;
