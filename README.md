@@ -5,7 +5,7 @@ Studying Specialization in Software Architecture at FIAP. Bachelor in Informatio
 - Container Orchestration with Docker and Kubernetes;
 - Creation of CI/CD scripts for api's, front-end's and mobile apps;
 - Publishing apps on Google Play and Apple Store;
-- Development of Front end and Mobile applications;
+- Development of Microsservices, Front end and Mobile applications;
 
 
 <br/>
