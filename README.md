@@ -2,10 +2,10 @@
 
 Studying Specialization in Software Architecture at FIAP. Bachelor in Information Systems from the University of Mogi das Cruzes. Development experience for over 13 years.
 
+- Cloud Management (GCP and AWS);
 - Container Orchestration with Docker and Kubernetes;
-- Creation of CI/CD scripts for api's, front-end's and mobile apps;
-- Publishing apps on Google Play and Apple Store;
-- Development of Microsservices, Front end and Mobile applications;
+- Creation of CI/CD scripts for api's, front-end's and mobile apps (Gitlab CI, Github Actions and Bitrise);
+- Typescript/Javascript Full Stack (Node.js, React.js and React Native);
 
 
 <br/>
