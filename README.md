@@ -1,6 +1,6 @@
 ## Hello there, I'm Victor.
 
-Studying Specialization in Software Architecture at FIAP. Bachelor in Information Systems from the University of Mogi das Cruzes. Development experience for over 13 years.
+Specialist in Software Architecture at FIAP. Bachelor in Information Systems from the University of Mogi das Cruzes. Development experience for over 13 years.
 
 - Cloud Management (GCP and AWS);
 - Container Orchestration with Docker and Kubernetes;
