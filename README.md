@@ -4,9 +4,8 @@ Specialist in Software Architecture from FIAP. Bachelor in Information Systems f
 
 - FullStack Typescript/Javascript (Node.js, React.js and React Native);
 - Container Orchestration with Docker and Kubernetes;
-- Creation of CI/CD scripts for api's, front-end's and mobile apps (Github Actions and Bitrise);
-- Administration of Cloud GCP (Artifact Registry, IAM, GKE and Cloud SQL);
-- Creation of SAGA's orchestrated with Firebase Functions and Realtime Database;
+- Creation of CI/CD scripts for api's, front-end's and mobile apps (Github Actions, Cloud Build and Bitrise);
+- Administration of Cloud GCP (Artifact Registry, IAM, GKE, Cloud Build and Cloud SQL);
 
 
 <br/>
