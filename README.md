@@ -1,11 +1,18 @@
 ## Hello there, I'm Victor.
 
-Specialist in Software Architecture from FIAP. Bachelor in Information Systems from the University of Mogi das Cruzes. Experience with software development for over 13 years and with Cloud and DevOps for over 5 years.
+Studying Machine Learning Engineering at FIAP. Specialist in Software Architecture from FIAP. Bachelor in Information Systems from the University of Mogi das Cruzes. Experience with software development for over 14 years and with Cloud and DevOps for over 2 years and with Machine Learning for over 1 year.
 
-- FullStack Typescript/Javascript (Node.js, React.js and React Native);
+Currently my career focus is on Machine Learning with the following bullet points:
+
+- Python;
+- Machine Learning and Deep Learning Algorithms...
+- Natural Language Processing (NLP)...
+- ETL...
+- MLOps...
+- Creation of CI/CD scripts for ML, api's, front-end's and mobile apps (Github Actions, Gitlab CI, Cloud Build and Bitrise);
 - Container Orchestration with Docker and Kubernetes;
-- Creation of CI/CD scripts for api's, front-end's and mobile apps (Github Actions, Cloud Build and Bitrise);
-- Administration of Cloud GCP (Artifact Registry, IAM, GKE, Cloud Build and Cloud SQL);
+- APIs with (FastApi and Flask);
+- Infrastructure as Code (Terraform) in the Cloud (GCP, AWS);
 
 
 <br/>
