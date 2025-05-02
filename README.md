@@ -1,6 +1,6 @@
 ## Hello there, I'm Victor.
 
-Studying Machine Learning Engineering at FIAP. Specialist in Software Architecture from FIAP. Bachelor in Information Systems from the University of Mogi das Cruzes. Experience with software development for over 14 years and with Cloud and DevOps for over 2 years and with Machine Learning for over 1 year.
+Studying Machine Learning Engineering Specialization at FIAP. Specialist in Software Architecture from FIAP. Bachelor in Information Systems from the University of Mogi das Cruzes. Experience with software development for over 14 years and with Cloud and DevOps for over 2 years and with Machine Learning for over 1 year.
 
 Currently my career focus is on Machine Learning with the following bullet points:
 
