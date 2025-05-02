@@ -1,19 +1,20 @@
 ## Hello there, I'm Victor.
 
-Studying Machine Learning Engineering Specialization at FIAP. Specialist in Software Architecture from FIAP. Bachelor in Information Systems from the University of Mogi das Cruzes. Experience with software development for over 14 years and with Cloud and DevOps for over 2 years and with Machine Learning for over 1 year.
+Aspiring Machine Learning Engineer (Machine Learning Engineering Specialization at FIAP) with a strong foundation in software development (14+ years), Cloud, and DevOps (2+ years).
 
-Currently my career focus is on Machine Learning with the following bullet points:
+Currently applying knowledge in practical Generative Artificial Intelligence projects, focusing on Natural Language Processing (NLP) and MLOps to optimize RAG and security analysis solutions.
 
-- Python;
-- Machine Learning and Deep Learning Algorithms...
-- Natural Language Processing (NLP)...
-- ETL...
-- Relational and NoSQL Database;
-- MLOps...
-- Creation of CI/CD scripts for ML, api's, front-end's and mobile apps (Github Actions, Gitlab CI, Cloud Build and Bitrise);
-- Container Orchestration with Docker and Kubernetes;
-- APIs with (FastApi and Flask);
-- Infrastructure as Code (Terraform) in the Cloud (GCP, AWS);
+Expertise in:
+
+- Machine Learning: Python, Machine Learning Algorithms (emphasis on Classification), and Deep Learning (concepts).
+- Natural Language Processing (NLP): Text Embeddings, Transformer Architectures (concepts), Retrieval-Augmented Generation (RAG), Information Extraction, Text Generation.
+- MLOps (Continuous Delivery for Machine Learning): Creation of CI/CD scripts for ML (Github Actions, Gitlab CI, Cloud Build, Bitrise), Container Orchestration (Docker and Kubernetes), - APIs (FastAPI and Flask), Infrastructure as Code (Terraform) on Cloud (GCP, AWS).
+- Data: ETL, Relational and NoSQL Databases.
+
+Other Education:
+
+- Software Architecture Specialist from FIAP.
+- Bachelor's Degree in Information Systems from the University of Mogi das Cruzes.
 
 
 <br/>
