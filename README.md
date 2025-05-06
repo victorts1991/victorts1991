@@ -1,6 +1,6 @@
 ## Hello there, I'm Victor.
 
-Aspiring Machine Learning Engineer (Machine Learning Engineering Specialization at FIAP) with a strong foundation in software development (14+ years), Cloud, and DevOps (2+ years).
+Aspiring Machine Learning Engineer (Machine Learning Engineering Specialization at FIAP) with a strong foundation in software development (14+ years), Cloud, and DevOps (5+ years).
 
 Currently applying knowledge in practical Generative Artificial Intelligence projects, focusing on Natural Language Processing (NLP) and MLOps to optimize RAG and security analysis solutions.
 
