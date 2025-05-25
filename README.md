@@ -5,40 +5,37 @@ Engenheiro de Machine Learning em transição, combinando 14+ anos de experiênc
 Projetos em Destaque:
 
 - API de Previsão de Demanda (MLOps End-to-End):
-
-Repositório: https://github.com/victorts1991/ml-iris-prediction
-Tecnologias: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE) para orquestração e deploy.
-MLOps: GitHub Actions (CI/CD), Terraform, Pytest (testes automatizados).
-Dados: MongoDB Atlas (Banco de Dados NoSQL para persistência de dados de predição).
+  - Repositório: https://github.com/victorts1991/ml-iris-prediction
+  - Tecnologias: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE) para orquestração e deploy.
+  - MLOps: GitHub Actions (CI/CD), Terraform, Pytest (testes automatizados).
+  - Dados: MongoDB Atlas (Banco de Dados NoSQL para persistência de dados de predição).
 
 
 - Pipeline de Web Scraping & Ingestão de Dados (Engenharia de Dados)
-
-Repositório: https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api
-Tecnologias: Python, Flask (APIs para web scraping).
-Deploy: Heroku (para a etapa atual de ingestão).
-Conceitos: ETL (Extração via web scraping).
+  - Repositório: https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api
+  - Tecnologias: Python, Flask (APIs para web scraping).
+  - Deploy: Heroku (para a etapa atual de ingestão).
+  - Conceitos: ETL (Extração via web scraping).
 
 
 - API de RAG para NPPs com OpenAI (NLP & MLOps na Empresa)
-
-Tecnologias: Python, Flask (APIs), Flasgger (documentação de API).
-PLN/IA Generativa: OpenAI API (Assistants API, Vector Stores), Embeddings de Texto (implicado pelo uso de Vector Stores), RAG, Geração de Texto, Extração de Informação.
-MLOps & Cloud: Docker, Kubernetes (GCP) para orquestração, GitLab CI (CI/CD), Autenticação JWT.
-Dados: Firebase Firestore (Banco de Dados NoSQL para gestão de documentos e assistentes por cliente).
-Conceitos: Infraestrutura como Código (IaC) para o ambiente do projeto.
+  - Tecnologias: Python, Flask (APIs), Flasgger (documentação de API).
+  - PLN/IA Generativa: OpenAI API (Assistants API, Vector Stores), Embeddings de Texto (implicado pelo uso de Vector Stores), RAG, Geração de Texto, Extração de Informação.
+  - MLOps & Cloud: Docker, Kubernetes (GCP) para orquestração, GitLab CI (CI/CD), Autenticação JWT.
+  - Dados: Firebase Firestore (Banco de Dados NoSQL para gestão de documentos e assistentes por cliente).
+  - Conceitos: Infraestrutura como Código (IaC) para o ambiente do projeto.
 
 --------------------------------
 
-Qualificações Técnicas Abrangentes:
-Linguagens e Frameworks: Python, FastAPI, Flask.
-Machine Learning & NLP: RAG, Embeddings de Texto, OpenAI API (Assistants API, Vector Stores), Geração de Texto, Extração de Informação.
-MLOps & DevOps: Docker, Kubernetes (GKE), Terraform, CI/CD (GitHub Actions, GitLab CI), Infraestrutura como Código (IaC).
-Cloud Platforms: Google Cloud Platform (GCP), Heroku.
-Bancos de Dados: NoSQL (MongoDB Atlas, Firebase Firestore), SQL (conceitos e consultas).
-Engenharia de Dados: ETL, Web Scraping.
-Testes: Pytest.
-Segurança: JWT (JSON Web Tokens).
+- Qualificações Técnicas Abrangentes:
+  - Linguagens e Frameworks: Python, FastAPI, Flask.
+  - Machine Learning & NLP: RAG, Embeddings de Texto, OpenAI API (Assistants API, Vector Stores), Geração de Texto, Extração de Informação.
+  - MLOps & DevOps: Docker, Kubernetes (GKE), Terraform, CI/CD (GitHub Actions, GitLab CI), Infraestrutura como Código (IaC).
+  - Cloud Platforms: Google Cloud Platform (GCP), Heroku.
+  - Bancos de Dados: NoSQL (MongoDB Atlas, Firebase Firestore), SQL (conceitos e consultas).
+  - Engenharia de Dados: ETL, Web Scraping.
+  - Testes: Pytest.
+  - Segurança: JWT (JSON Web Tokens).
 
 <br/>
 
