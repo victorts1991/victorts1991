@@ -1,21 +1,44 @@
 ## Hello there, I'm Victor.
 
-Aspiring Machine Learning Engineer (Machine Learning Engineering Specialization at FIAP) with a strong foundation in software development (14+ years), Cloud, and DevOps (5+ years).
+Engenheiro de Machine Learning em transição, combinando 14+ anos de experiência em desenvolvimento de software com 5+ anos em Cloud e DevOps para construir e operacionalizar soluções de IA. Foco principal em MLOps e Processamento de Linguagem Natural (NLP), com vivência na aplicação de IA Generativa para otimizar sistemas de RAG (Retrieval-Augmented Generation) e análise de segurança.
 
-Currently applying knowledge in practical Generative Artificial Intelligence projects, focusing on Natural Language Processing (NLP) and MLOps to optimize RAG and security analysis solutions.
+Projetos em Destaque:
 
-Expertise in:
+- API de Previsão de Demanda (MLOps End-to-End):
 
-- Machine Learning: Python, Machine Learning Algorithms (emphasis on Classification), and Deep Learning (concepts).
-- Natural Language Processing (NLP): Text Embeddings, Transformer Architectures (concepts), Retrieval-Augmented Generation (RAG), Information Extraction, Text Generation.
-- MLOps (Continuous Delivery for Machine Learning): Creation of CI/CD scripts for ML (Github Actions, Gitlab CI, Cloud Build, Bitrise), Container Orchestration (Docker and Kubernetes), - APIs (FastAPI and Flask), Infrastructure as Code (Terraform) on Cloud (GCP, AWS).
-- Data: ETL, Relational and NoSQL Databases.
+Repositório: https://github.com/victorts1991/ml-iris-prediction
+Tecnologias: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE) para orquestração e deploy.
+MLOps: GitHub Actions (CI/CD), Terraform, Pytest (testes automatizados).
+Dados: MongoDB Atlas (Banco de Dados NoSQL para persistência de dados de predição).
 
-Other Education:
 
-- Software Architecture Specialist from FIAP.
-- Bachelor's Degree in Information Systems from the University of Mogi das Cruzes.
+- Pipeline de Web Scraping & Ingestão de Dados (Engenharia de Dados)
 
+Repositório: https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api
+Tecnologias: Python, Flask (APIs para web scraping).
+Deploy: Heroku (para a etapa atual de ingestão).
+Conceitos: ETL (Extração via web scraping).
+
+
+- API de RAG para NPPs com OpenAI (NLP & MLOps na Empresa)
+
+Tecnologias: Python, Flask (APIs), Flasgger (documentação de API).
+PLN/IA Generativa: OpenAI API (Assistants API, Vector Stores), Embeddings de Texto (implicado pelo uso de Vector Stores), RAG, Geração de Texto, Extração de Informação.
+MLOps & Cloud: Docker, Kubernetes (GCP) para orquestração, GitLab CI (CI/CD), Autenticação JWT.
+Dados: Firebase Firestore (Banco de Dados NoSQL para gestão de documentos e assistentes por cliente).
+Conceitos: Infraestrutura como Código (IaC) para o ambiente do projeto.
+
+--------------------------------
+
+Qualificações Técnicas Abrangentes:
+Linguagens e Frameworks: Python, FastAPI, Flask.
+Machine Learning & NLP: RAG, Embeddings de Texto, OpenAI API (Assistants API, Vector Stores), Geração de Texto, Extração de Informação.
+MLOps & DevOps: Docker, Kubernetes (GKE), Terraform, CI/CD (GitHub Actions, GitLab CI), Infraestrutura como Código (IaC).
+Cloud Platforms: Google Cloud Platform (GCP), Heroku.
+Bancos de Dados: NoSQL (MongoDB Atlas, Firebase Firestore), SQL (conceitos e consultas).
+Engenharia de Dados: ETL, Web Scraping.
+Testes: Pytest.
+Segurança: JWT (JSON Web Tokens).
 
 <br/>
 
