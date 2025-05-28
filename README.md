@@ -30,7 +30,7 @@ Projetos em Destaque:
 - Qualificações Técnicas Abrangentes:
   - Linguagens e Frameworks: Python, FastAPI, Flask.
   - Machine Learning & NLP: RAG, Embeddings de Texto, OpenAI API (Assistants API, Vector Stores), Geração de Texto, Extração de Informação.
-  - MLOps & DevOps: Docker, Kubernetes (GKE), Terraform, CI/CD (GitHub Actions, GitLab CI), Infraestrutura como Código (IaC).
+  - MLOps & DevOps: Docker, Kubernetes (GKE), Terraform, CI/CD (GitHub Actions, Cloud Build), Infraestrutura como Código (IaC).
   - Cloud Platforms: Google Cloud Platform (GCP), Heroku.
   - Bancos de Dados: NoSQL (MongoDB Atlas, Firebase Firestore), SQL (PostgreSQL).
   - Engenharia de Dados: ETL, Web Scraping.
