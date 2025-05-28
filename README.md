@@ -32,7 +32,7 @@ Projetos em Destaque:
   - Machine Learning & NLP: RAG, Embeddings de Texto, OpenAI API (Assistants API, Vector Stores), Geração de Texto, Extração de Informação.
   - MLOps & DevOps: Docker, Kubernetes (GKE), Terraform, CI/CD (GitHub Actions, GitLab CI), Infraestrutura como Código (IaC).
   - Cloud Platforms: Google Cloud Platform (GCP), Heroku.
-  - Bancos de Dados: NoSQL (MongoDB Atlas, Firebase Firestore), SQL (conceitos e consultas).
+  - Bancos de Dados: NoSQL (MongoDB Atlas, Firebase Firestore), SQL (PostgreSQL).
   - Engenharia de Dados: ETL, Web Scraping.
   - Testes: Pytest.
   - Segurança: JWT (JSON Web Tokens).
