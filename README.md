@@ -2,40 +2,47 @@
 
 Engenheiro de Machine Learning em transição, combinando 14+ anos de experiência em desenvolvimento de software com 5+ anos em Cloud e DevOps para construir e operacionalizar soluções de IA. Foco principal em MLOps e Processamento de Linguagem Natural (NLP), com vivência na aplicação de IA Generativa para otimizar sistemas de RAG (Retrieval-Augmented Generation) e análise de segurança.
 
-Projetos em Destaque:
 
-- API de Previsão de Demanda (MLOps End-to-End):
-  - Repositório: https://github.com/victorts1991/ml-iris-prediction
-  - Tecnologias: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE) para orquestração e deploy.
-  - MLOps: GitHub Actions (CI/CD), Terraform, Pytest (testes automatizados).
-  - Dados: MongoDB Atlas (Banco de Dados NoSQL para persistência de dados de predição).
+### Projetos em Destaque:
 
+-   **Pipeline de ETL Automatizado (Engenharia de Dados & DevOps)**: [Em desenvolvimento]
+    -   Repositório: [https://github.com/victorts1991/etl-iac-ci-cd-project](https://github.com/victorts1991/etl-iac-ci-cd-project)
+    -   **Tecnologias**: Python, Pandas, PostgreSQL, MongoDB.
+    -   **Infraestrutura**: Terraform (GCP Cloud SQL, MongoDB Atlas).
+    -   **DevOps**: GitHub Actions (CI/CD, Pytest).
+    -   **Conceitos**: ETL (Extract, Transform, Load), IaC (Infraestrutura como Código).
 
-- Pipeline de Web Scraping & Ingestão de Dados (Engenharia de Dados)
-  - Repositório: https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api
-  - Tecnologias: Python, Flask (APIs para web scraping).
-  - Deploy: Heroku (para a etapa atual de ingestão).
-  - Conceitos: ETL (Extração via web scraping).
+-   **API de Previsão de Demanda (MLOps End-to-End)**:
+    -   Repositório: [https://github.com/victorts1991/ml-iris-prediction](https://github.com91/ml-iris-prediction)
+    -   **Tecnologias**: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE).
+    -   **MLOps**: GitHub Actions (CI/CD), Terraform, Pytest.
+    -   **Dados**: MongoDB Atlas (NoSQL para persistência de predições).
 
+-   **Pipeline de Web Scraping & Ingestão de Dados (Engenharia de Dados)**:
+    -   Repositório: [https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api](https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api)
+    -   **Tecnologias**: Python, Flask (APIs), Selenium, ScrapingBee.
+    -   **Deploy**: Heroku.
+    -   **Conceitos**: Web Scraping, CI/CD (GitHub Actions).
 
-- API RAG para Consulta de NPPs por Cliente (NLP & MLOps na Empresa)
-  - Tecnologias: Python, Flask (APIs), Flasgger (documentação de API).
-  - PLN/IA Generativa: OpenAI API (Assistants API, Vector Stores), Embeddings de Texto (implicado pelo uso de Vector Stores), RAG, Geração de Texto, Extração de Informação.
-  - MLOps & Cloud: Docker, Kubernetes (GCP) para orquestração, GitLab CI (CI/CD), Autenticação JWT.
-  - Dados: Firebase Firestore (Banco de Dados NoSQL para gestão de documentos e assistentes por cliente).
-  - Conceitos: Infraestrutura como Código (IaC) para o ambiente do projeto.
+-   **API RAG para Consulta de NPPs por Cliente (NLP & MLOps na Empresa)**:
+    -   **Tecnologias**: Python, Flask, Flasgger, OpenAI API (Assistants API, Vector Stores).
+    -   **PLN/IA Generativa**: RAG, Embeddings, Geração de Texto, Extração de Informação.
+    -   **MLOps & Cloud**: Docker, Kubernetes (GCP), GitLab CI (CI/CD), JWT.
+    -   **Dados**: Firebase Firestore (NoSQL para gestão de documentos).
+    -   **Conceitos**: Infraestrutura como Código (IaC).
 
 --------------------------------
 
-- Qualificações Técnicas Abrangentes:
-  - Linguagens e Frameworks: Python, FastAPI, Flask.
-  - Machine Learning & NLP: RAG, Embeddings de Texto, OpenAI API (Assistants API, Vector Stores), Geração de Texto, Extração de Informação.
-  - MLOps & DevOps: Docker, Kubernetes (GKE), Terraform, CI/CD (GitHub Actions, Cloud Build), Infraestrutura como Código (IaC).
-  - Cloud Platforms: Google Cloud Platform (GCP), Heroku.
-  - Bancos de Dados: NoSQL (MongoDB Atlas, Firebase Firestore), SQL (PostgreSQL).
-  - Engenharia de Dados: ETL, Web Scraping.
-  - Testes: Pytest.
-  - Segurança: JWT (JSON Web Tokens).
+### Qualificações Técnicas Abrangentes:
+
+-   **Linguagens e Frameworks**: Python, FastAPI, Flask, Pandas.
+-   **Machine Learning & NLP**: RAG, Embeddings de Texto, OpenAI API (Assistants API, Vector Stores), Geração de Texto, Extração de Informação.
+-   **MLOps & DevOps**: Docker, Kubernetes (GKE), Terraform, CI/CD (GitHub Actions, GitLab CI), Infraestrutura como Código (IaC).
+-   **Cloud Platforms**: Google Cloud Platform (GCP), Heroku, MongoDB Atlas.
+-   **Bancos de Dados**: NoSQL (MongoDB Atlas, Firebase Firestore), SQL (PostgreSQL).
+-   **Engenharia de Dados**: ETL (Extract, Transform, Load), Web Scraping.
+-   **Testes**: Pytest.
+-   **Segurança**: JWT (JSON Web Tokens).
 
 <br/>
 
