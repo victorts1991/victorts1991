@@ -18,7 +18,7 @@ Projetos em Destaque:
   - Conceitos: ETL (Extração via web scraping).
 
 
-- API de RAG para NPPs com OpenAI (NLP & MLOps na Empresa)
+- API RAG para Consulta de NPPs por Cliente (NLP & MLOps na Empresa)
   - Tecnologias: Python, Flask (APIs), Flasgger (documentação de API).
   - PLN/IA Generativa: OpenAI API (Assistants API, Vector Stores), Embeddings de Texto (implicado pelo uso de Vector Stores), RAG, Geração de Texto, Extração de Informação.
   - MLOps & Cloud: Docker, Kubernetes (GCP) para orquestração, GitLab CI (CI/CD), Autenticação JWT.
