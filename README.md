@@ -1,6 +1,6 @@
 ## Hello there, I'm Victor.
 
-Engenheiro de Machine Learning em transição, combinando 14+ anos de experiência em desenvolvimento de software com 5+ anos em Cloud e DevOps para construir e operacionalizar soluções de IA. Foco principal em MLOps e Processamento de Linguagem Natural (NLP), com vivência na aplicação de IA Generativa para otimizar sistemas de RAG (Retrieval-Augmented Generation) e análise de segurança.
+Engenheiro de Machine Learning em transição, combinando 14+ anos de experiência em desenvolvimento de software com 5+ anos em Cloud e DevOps para construir e operacionalizar soluções de IA. Foco principal em MLOps e Engenharia de Dados, com vivência na aplicação de IA Generativa (RAG) e NLP para otimizar sistemas e análise de segurança.
 
 
 ### Projetos em Destaque:
@@ -24,7 +24,7 @@ Engenheiro de Machine Learning em transição, combinando 14+ anos de experiênc
     -   **Deploy**: Heroku.
     -   **Conceitos**: Web Scraping, CI/CD (GitHub Actions).
 
--   **API RAG para Consulta de NPPs por Cliente (NLP & MLOps na Empresa)**:
+-   **API RAG para Consulta de NPPs por Cliente (NLP & MLOps na Empresa Kobel Software LTDA)**:
     -   **Tecnologias**: Python, Flask, Flasgger, OpenAI API (Assistants API, Vector Stores).
     -   **PLN/IA Generativa**: RAG, Embeddings, Geração de Texto, Extração de Informação.
     -   **MLOps & Cloud**: Docker, Kubernetes (GCP), GitLab CI (CI/CD), JWT.
