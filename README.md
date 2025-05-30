@@ -5,13 +5,6 @@ Engenheiro de Machine Learning em transição, combinando 14+ anos de experiênc
 
 ### Projetos em Destaque:
 
--   **Pipeline de ETL Automatizado (Engenharia de Dados & DevOps)**: [Em desenvolvimento]
-    -   Repositório: [https://github.com/victorts1991/etl-iac-ci-cd-project](https://github.com/victorts1991/etl-iac-ci-cd-project)
-    -   **Tecnologias**: Python, Pandas, PostgreSQL, MongoDB.
-    -   **Infraestrutura**: Terraform (GCP Cloud SQL, MongoDB Atlas).
-    -   **DevOps**: GitHub Actions (CI/CD, Pytest).
-    -   **Conceitos**: ETL (Extract, Transform, Load), IaC (Infraestrutura como Código).
-
 -   **API de Previsão de Demanda (MLOps End-to-End)**:
     -   Repositório: [https://github.com/victorts1991/ml-iris-prediction](https://github.com91/ml-iris-prediction)
     -   **Tecnologias**: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE).
