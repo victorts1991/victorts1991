@@ -13,7 +13,7 @@ Engenheiro de Machine Learning em transição, combinando 14+ anos de experiênc
 
 -   **Pipeline de Web Scraping & Ingestão de Dados (Engenharia de Dados)**:
     -   Repositório: [https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api](https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api)
-    -   **Tecnologias**: Python, Flask (APIs), Selenium, ScrapingBee.
+    -   **Tecnologias**: Python, Flask (APIs), Beautiful Soup, ScrapingBee.
     -   **Deploy**: Heroku.
     -   **Conceitos**: Web Scraping, CI/CD (GitHub Actions).
 
