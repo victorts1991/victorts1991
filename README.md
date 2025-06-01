@@ -1,6 +1,6 @@
 ## Hello there, I'm Victor.
 
-Engenheiro de Machine Learning em transição, combinando 14+ anos de experiência em desenvolvimento de software com 5+ anos em Cloud e DevOps para construir e operacionalizar soluções de IA. Foco principal em MLOps e Engenharia de Dados, com vivência na aplicação de IA Generativa (RAG) e NLP para otimizar sistemas e análise de segurança.
+Engenheiro de Machine Learning em transição, combinando 14+ anos de experiência em desenvolvimento de software com 3+ anos em Cloud e DevOps para construir e operacionalizar soluções de IA. Foco principal em MLOps e Engenharia de Dados, com vivência na aplicação de IA Generativa (RAG) e NLP para otimizar sistemas e análise de segurança.
 
 
 ### Projetos em Destaque:
