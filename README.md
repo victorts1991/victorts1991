@@ -7,9 +7,9 @@ Engenheiro de Machine Learning em transição, combinando 14+ anos de experiênc
 
 -   **API de Previsão de Demanda (MLOps End-to-End)**:
     -   Repositório: [https://github.com/victorts1991/ml-iris-prediction](https://github.com91/ml-iris-prediction)
-    -   **Tecnologias**: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE).
-    -   **MLOps**: GitHub Actions (CI/CD), Terraform, Pytest.
-    -   **Dados**: MongoDB Atlas (NoSQL para persistência de predições).
+    - **Tecnologias**: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE), scikit-learn (Regressão Logística para treinamento de modelos via Jupyter Notebook).
+    - **MLOps**: GitHub Actions (CI/CD), Terraform, Pytest.
+    - **Dados**: Sqlite (Para persistência de predições).
 
 -   **Pipeline de Web Scraping & Ingestão de Dados (Engenharia de Dados)**:
     -   Repositório: [https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api](https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api)
