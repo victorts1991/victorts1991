@@ -28,14 +28,13 @@ Engenheiro de Machine Learning em transição, combinando 14+ anos de experiênc
 
 ### Qualificações Técnicas Abrangentes:
 
--   **Linguagens e Frameworks**: Python, FastAPI, Flask, Pandas.
+-   **Linguagens e Frameworks**: Python, FastAPI, Flask, Pandas, Javascript, Typescript, React.js, Node.js, Nest.js.
 -   **Machine Learning & NLP**: RAG, LLM e OpenAI API (Assistants API, Vector Stores).
--   **MLOps & DevOps**: Docker, Kubernetes (GKE), Terraform, CI/CD (GitHub Actions, GitLab CI, Bitrise e Cloud Build), Infraestrutura como Código (IaC).
--   **Cloud Platforms**: Google Cloud Platform (GCP) Amazon Web Services (AWS) e Heroku.
--   **Bancos de Dados**: NoSQL (MongoDB, Firebase Firestore), SQL (PostgreSQL).
+-   **MLOps & DevOps**: Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Bitrise e Cloud Build), Infraestrutura como Código (IaC).
+-   **Cloud Platforms**: Google Cloud Platform - GCP (GKE, IAM, Artifact Registry, Cloud Build, Cloud SQL), Amazon Web Services - AWS (S3, Redshift, RDS, EKS, IAM) e Heroku.
+-   **Bancos de Dados**: NoSQL (MongoDB, Firebase Firestore), SQL (PostgreSQL e Amazon Redshift - Data Warehouse).
 -   **Engenharia de Dados**: ETL (Extract, Transform, Load), Web Scraping.
--   **Testes**: Pytest.
--   **Segurança**: JWT (JSON Web Tokens).
+-   **Testes**: Pytest, Jest, React Test Library.
 
 <br/>
 
