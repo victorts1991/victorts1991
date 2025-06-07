@@ -5,6 +5,11 @@ Engenheiro de Machine Learning em transição, combinando 14+ anos de experiênc
 
 ### Projetos em Destaque:
 
+-    **Pipeline de Dados ELT com AWS Redshift (Engenharia de Dados & Analytics)**:
+     -   Repositório: https://github.com/victorts1991/aws-redshift-data-project
+     - **Tecnologias**: Python, Amazon Redshift (Data Warehouse), Amazon S3 (Data Lake/Staging), SQL (para transformação e análise), Boto3, Pandas.
+     - **Conceitos**: ELT (Extract, Load, Transform) de milhões de registros, Automação (GitHub Actions), IAM Role.
+
 -   **API de Previsão de Demanda (MLOps End-to-End)**:
     -   Repositório: [https://github.com/victorts1991/ml-iris-prediction](https://github.com91/ml-iris-prediction)
     - **Tecnologias**: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE), scikit-learn (Regressão Logística para treinamento de modelos via Jupyter Notebook).
