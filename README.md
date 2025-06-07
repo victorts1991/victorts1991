@@ -11,13 +11,13 @@ Engenheiro de Software Sênior com 14 anos de experiência no ciclo completo de 
      - **Conceitos**: ELT (Extract, Load, Transform) de milhões de registros, Automação (GitHub Actions), IAM Role.
 
 -   **API de Previsão de Demanda (MLOps End-to-End)**:
-    -   Repositório: [https://github.com/victorts1991/ml-iris-prediction](https://github.com91/ml-iris-prediction)
+    -   Repositório: https://github.com/victorts1991/ml-iris-prediction
     - **Tecnologias**: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE), scikit-learn (Regressão Logística para treinamento de modelos via Jupyter Notebook).
     - **MLOps**: GitHub Actions (CI/CD), Terraform, Pytest.
     - **Dados**: Sqlite (Para persistência de predições).
 
 -   **Pipeline de Web Scraping & Ingestão de Dados (Engenharia de Dados)**:
-    -   Repositório: [https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api](https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api)
+    -   Repositório: https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api
     -   **Tecnologias**: Python, Flask (APIs), Beautiful Soup, ScrapingBee.
     -   **Deploy**: Heroku.
     -   **Conceitos**: Web Scraping, CI/CD (GitHub Actions).
