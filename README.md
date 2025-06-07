@@ -22,13 +22,6 @@ Engenheiro de Software Sênior com 14 anos de experiência no ciclo completo de 
     -   **Deploy**: Heroku.
     -   **Conceitos**: Web Scraping, CI/CD (GitHub Actions).
 
--   **API RAG para Consulta de NPPs por Cliente (NLP & MLOps na Empresa Kobel Software LTDA)**:
-    -   **Tecnologias**: Python, Flask, Flasgger, OpenAI API (Assistants API, Vector Stores).
-    -   **PLN/IA Generativa**: RAG, Embeddings, Geração de Texto, Extração de Informação.
-    -   **MLOps & Cloud**: Docker, Kubernetes (GCP), GitLab CI (CI/CD), JWT.
-    -   **Dados**: Firebase Firestore (NoSQL para gestão de documentos).
-    -   **Conceitos**: Infraestrutura como Código (IaC).
-
 --------------------------------
 
 ### Qualificações Técnicas Abrangentes:
