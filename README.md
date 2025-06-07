@@ -34,6 +34,14 @@ Engenheiro de Software Sênior com 14 anos de experiência no ciclo completo de 
 -   **Engenharia de Dados**: ETL (Extract, Transform, Load), ELT (Extract, Load, Transform) e Web Scraping.
 -   **Testes**: Pytest, Jest, React Test Library.
 
+--------------------------------
+
+### Formação Acadêmica:
+
+- Cursando Especialização em Machine Learning Engineering;
+- Especialista em Software Architecture pela Fiap;
+- Bacharel em Sistemas de Informação pela Universidade de Mogi das Cruzes;
+
 <br/>
 
 <div align="center">
