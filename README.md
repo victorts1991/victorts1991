@@ -1,6 +1,6 @@
 ## Hello there, I'm Victor.
 
-Engenheiro de Machine Learning em transição, combinando 14+ anos de experiência em desenvolvimento de software com 5+ anos em Cloud e DevOps para construir e operacionalizar soluções de IA. Foco principal em MLOps e Engenharia de Dados, com vivência na aplicação de IA Generativa (RAG) e NLP para otimizar sistemas e análise de segurança.
+Engenheiro de Software Sênior com 14 anos de experiência no ciclo completo de desenvolvimento, incluindo sólida vivência em desenvolvimento full-stack (React, Node.js). Possuo proficiência em DevOps, otimizando pipelines de CI/CD com GitHub Actions e Cloud Build, gerenciamento de contêineres com Docker e Kubernetes (GKE). Trabalho com infraestrutura na AWS (incluindo EKS, S3, RDS, VPC, IAM e Redshift) e no GCP (incluindo IAM, Artifact Registry e Cloud SQL). Atualmente, estou focado em expandir minhas habilidades em MLOps e Engenharia de Dados.
 
 
 ### Projetos em Destaque:
@@ -35,10 +35,10 @@ Engenheiro de Machine Learning em transição, combinando 14+ anos de experiênc
 
 -   **Linguagens e Frameworks**: Python, FastAPI, Flask, Pandas, Javascript, Typescript, React.js, Node.js, Nest.js, HTML e CSS.
 -   **Machine Learning & NLP**: RAG, LLM e OpenAI API (Assistants API, Vector Stores).
--   **MLOps & DevOps**: Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Bitrise e Cloud Build), Infraestrutura como Código (IaC).
+-   **MLOps & DevOps**: Docker, Kubernetes e CI/CD (GitHub Actions, GitLab CI, Bitrise e Cloud Build).
 -   **Cloud Platforms**: Google Cloud Platform - GCP (GKE, IAM, Artifact Registry, Cloud Build, Cloud SQL), Amazon Web Services - AWS (S3, Redshift, RDS, EKS, IAM) e Heroku.
 -   **Bancos de Dados**: NoSQL (MongoDB, Firebase Firestore), SQL (PostgreSQL e Amazon Redshift - Data Warehouse).
--   **Engenharia de Dados**: ETL (Extract, Transform, Load), Web Scraping.
+-   **Engenharia de Dados**: ETL (Extract, Transform, Load), ELT (Extract, Load, Transform) e Web Scraping.
 -   **Testes**: Pytest, Jest, React Test Library.
 
 <br/>
