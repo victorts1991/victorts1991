@@ -38,7 +38,7 @@ Engenheiro de Software Sênior com 14 anos de experiência no ciclo completo de 
 
 ### Formação Acadêmica:
 
-- Cursando Especialização em Machine Learning Engineering;
+- Cursando Especialização em Machine Learning Engineering pela Fiap;
 - Especialista em Software Architecture pela Fiap;
 - Bacharel em Sistemas de Informação pela Universidade de Mogi das Cruzes;
 
