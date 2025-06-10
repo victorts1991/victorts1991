@@ -1,6 +1,6 @@
 ## Hello there, I'm Victor.
 
-Engenheiro de Software Sênior com 14 anos de experiência no ciclo completo de desenvolvimento, incluindo sólida vivência em desenvolvimento full-stack (React, Node.js). Possuo proficiência em DevOps, otimizando pipelines de CI/CD com GitHub Actions e Cloud Build, gerenciamento de contêineres com Docker e Kubernetes (GKE). Trabalho com infraestrutura na AWS (incluindo EKS, S3, RDS, VPC, IAM e Redshift) e no GCP (incluindo IAM, Artifact Registry e Cloud SQL). Atualmente, estou focado em expandir minhas habilidades em MLOps e Engenharia de Dados.
+Engenheiro de Software Sênior com 14 anos de experiência no ciclo completo de desenvolvimento, incluindo sólida vivência em desenvolvimento full-stack (React, Node.js). Possuo proficiência em DevOps, otimizando pipelines de CI/CD com GitHub Actions e Cloud Build, gerenciamento de contêineres com Docker e Kubernetes (GKE). Trabalho com infraestrutura na AWS (incluindo EKS, S3, RDS, VPC, IAM, Amazon Redshift e AWS Glue) e no GCP (incluindo IAM, Artifact Registry e Cloud SQL). Atualmente, estou focado em expandir minhas habilidades em MLOps e Engenharia de Dados.
 
 
 ### Projetos em Destaque:
@@ -32,12 +32,12 @@ Engenheiro de Software Sênior com 14 anos de experiência no ciclo completo de 
 
 ### Qualificações Técnicas Abrangentes:
 
--   **Linguagens e Frameworks**: Python, FastAPI, Flask, Pandas, Javascript, Typescript, React.js, Node.js, Nest.js, HTML e CSS.
+-   **Linguagens e Frameworks**: Python, Apache Spark (PySpark), FastAPI, Flask, Pandas, Javascript, Typescript, React.js, Node.js, Nest.js, HTML e CSS.
 -   **Machine Learning & NLP**: RAG, LLM e OpenAI API (Assistants API, Vector Stores).
 -   **MLOps & DevOps**: Docker, Kubernetes e CI/CD (GitHub Actions, GitLab CI, Bitrise e Cloud Build).
--   **Cloud Platforms**: Google Cloud Platform - GCP (GKE, IAM, Artifact Registry, Cloud Build, Cloud SQL), Amazon Web Services - AWS (S3, Redshift, RDS, EKS, IAM) e Heroku.
+-   **Cloud Platforms**: Google Cloud Platform - GCP (GKE, IAM, Artifact Registry, Cloud Build, Cloud SQL), Amazon Web Services - AWS (S3, Redshift, RDS, EKS, IAM, AWS Glue) e Heroku.
 -   **Bancos de Dados**: NoSQL (MongoDB, Firebase Firestore), SQL (PostgreSQL e Amazon Redshift - Data Warehouse).
--   **Engenharia de Dados**: ETL (Extract, Transform, Load), ELT (Extract, Load, Transform) e Web Scraping.
+-   **Engenharia de Dados**: ETL (Extract, Transform, Load), ELT (Extract, Load, Transform), Web Scraping, Processamento de Big Data (com Apache Spark), Transformação de Dados.
 -   **Testes**: Pytest, Jest, React Test Library.
 
 --------------------------------
