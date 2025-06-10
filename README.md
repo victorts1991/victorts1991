@@ -5,6 +5,12 @@ Engenheiro de Software Sênior com 14 anos de experiência no ciclo completo de 
 
 ### Projetos em Destaque:
 
+-    **Pipeline de ETL de Dados JSON em Escala (AWS Glue & Apache Spark)**:
+     -   Repositório: https://github.com/victorts1991/aws-glue-json-to-csv-etl
+     - **Tecnologias**: Python, Apache Spark (PySpark), AWS Glue (ETL Serverless), Amazon S3 (Data Lake/Armazenamento de Camadas), Draw.io.
+     - **Conceitos**: ETL (Extract, Transform, Load) de Big Data, Processamento de JSONs grandes, Lançamento e monitoramento de Jobs, Orquestração Semi-Manual, Qualidade de Dados na Origem.
+     - **Desafio**: Limitações de memória para processamento local/API.
+
 -    **Pipeline de Dados ELT com AWS Redshift (Engenharia de Dados & Analytics)**:
      -   Repositório: https://github.com/victorts1991/aws-redshift-data-project
      - **Tecnologias**: Python, Amazon Redshift (Data Warehouse), Amazon S3 (Data Lake/Staging), SQL (para transformação e análise), Boto3, Pandas.
