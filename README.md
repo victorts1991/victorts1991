@@ -4,7 +4,7 @@ With over 5 years of experience as a React & React Native Engineer and a career 
 
 In addition, I have solid skills in implementing and optimizing CI/CD pipelines (Cloud Build, GitLab CI, Bitrise), ensuring efficient software deliveries. My experience extends to container orchestration with Docker and Kubernetes on Google Cloud (GKE), and publishing applications on the Google Play and Apple App Stores.
 
-Academically, I have experience and skills in CI/CD with GitHub Actions, containerization and orchestration with Docker and Kubernetes in AWS and GCP environments. In backend development, I have experience with Node.js and the NestJS framework, including creating microservices with TypeORM, unit and e2e testing, and continuous deployment automation for AWS. Additionally, I have developed skills in End-to-End MLOps, deploying Machine Learning models in Python (FastAPI, Scikit-learn) on GCP (Kubernetes, Terraform) and orchestrating everything via GitHub Actions.
+Academically, I have experience and skills in CI/CD with GitHub Actions, containerization and orchestration with Docker and Kubernetes in AWS and GCP environments. In backend development, I have experience with Node.js and the NestJS framework, including creating microservices with TypeORM, unit and e2e testing, and continuous deployment automation for AWS. Additionally, I have developed skills in End-to-End MLOps, deploying Machine Learning models in Python (FastAPI, Scikit-learn) on GCP (GKE) and orchestrating everything via GitHub Actions.
 
 --------------------------------
 
