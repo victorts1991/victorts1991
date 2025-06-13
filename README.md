@@ -1,50 +1,15 @@
 ## Hello there, I'm Victor.
 
-Engenheiro de Software Sênior com 14 anos de experiência no ciclo completo de desenvolvimento, incluindo sólida vivência em desenvolvimento full-stack (React, Node.js). Possuo proficiência em DevOps, otimizando pipelines de CI/CD com GitHub Actions e Cloud Build, gerenciamento de contêineres com Docker e Kubernetes (GKE). Trabalho com infraestrutura na AWS (incluindo EKS, S3, RDS, VPC, IAM, Amazon Redshift e AWS Glue) e no GCP (incluindo IAM, Artifact Registry e Cloud SQL). Atualmente, estou focado em expandir minhas habilidades em MLOps e Engenharia de Dados.
+Com mais de 5 anos de experiência intensa como React & React Native Engineer e uma trajetória de mais de 14 anos como Software Engineer, tenho forte atuação no desenvolvimento e manutenção de aplicações front-end web (React.js) e mobile (React Native para Android e iOS). Minha experiência abrange a criação de interfaces de usuário robustas e performáticas, utilizando bibliotecas e ferramentas como React Hooks, Redux, React Navigation e Styled Components. Possuo também vivência profissional com Node.js em projetos anteriores.
 
+Complementarmente, possuo sólidas habilidades em implementação e otimização de pipelines de CI/CD (Cloud Build, GitLab CI, Bitrise), garantindo entregas de software eficientes. Minha experiência se estende à orquestração de containers com Docker e Kubernetes no Google Cloud (GKE), e à publicação de aplicativos nas lojas Google Play e Apple App Store.
 
-### Projetos em Destaque:
-
--    **Pipeline de ETL de Dados JSON em Escala (AWS Glue & Apache Spark)**:
-     -   Repositório: https://github.com/victorts1991/aws-glue-json-to-csv-etl
-     - **Tecnologias**: Python, Apache Spark (PySpark), AWS Glue (ETL Serverless), Amazon S3 (Data Lake/Armazenamento de Camadas), Draw.io.
-     - **Conceitos**: ETL (Extract, Transform, Load) de Big Data, Processamento de JSONs grandes, Lançamento e monitoramento de Jobs, Orquestração Semi-Manual, Qualidade de Dados na Origem.
-     - **Desafio**: Limitações de memória para processamento local/API.
-
--    **Pipeline de Dados ELT com AWS Redshift (Engenharia de Dados & Analytics)**:
-     -   Repositório: https://github.com/victorts1991/aws-redshift-data-project
-     - **Tecnologias**: Python, Amazon Redshift (Data Warehouse), Amazon S3 (Data Lake/Staging), SQL (para transformação e análise), Boto3, Pandas.
-     - **Conceitos**: ELT (Extract, Load, Transform) de milhões de registros, Automação (GitHub Actions), IAM Role.
-
--   **API de Previsão de Demanda (MLOps End-to-End)**:
-    -   Repositório: https://github.com/victorts1991/ml-iris-prediction
-    - **Tecnologias**: Python, FastAPI (APIs com validação Pydantic), Docker, Kubernetes (GKE), scikit-learn (Regressão Logística para treinamento de modelos via Jupyter Notebook).
-    - **MLOps**: GitHub Actions (CI/CD), Terraform, Pytest.
-    - **Dados**: Sqlite (Para persistência de predições).
-
--   **Pipeline de Web Scraping & Ingestão de Dados (Engenharia de Dados)**:
-    -   Repositório: https://github.com/victorts1991/fiap-pos-tech-ml-tech-challenge-api
-    -   **Tecnologias**: Python, Flask (APIs), Beautiful Soup, ScrapingBee.
-    -   **Deploy**: Heroku.
-    -   **Conceitos**: Web Scraping, CI/CD (GitHub Actions).
-
---------------------------------
-
-### Qualificações Técnicas Abrangentes:
-
--   **Linguagens e Frameworks**: Python, Apache Spark (PySpark), FastAPI, Flask, Pandas, Javascript, Typescript, React.js, Node.js, Nest.js, HTML e CSS.
--   **Machine Learning & NLP**: RAG, LLM e OpenAI API (Assistants API, Vector Stores).
--   **MLOps & DevOps**: Docker, Kubernetes e CI/CD (GitHub Actions, GitLab CI, Bitrise e Cloud Build).
--   **Cloud Platforms**: Google Cloud Platform - GCP (GKE, IAM, Artifact Registry, Cloud Build, Cloud SQL), Amazon Web Services - AWS (S3, Redshift, RDS, EKS, IAM, AWS Glue) e Heroku.
--   **Bancos de Dados**: NoSQL (MongoDB, Firebase Firestore), SQL (PostgreSQL e Amazon Redshift - Data Warehouse).
--   **Engenharia de Dados**: ETL (Extract, Transform, Load), ELT (Extract, Load, Transform), Web Scraping, Processamento de Big Data (com Apache Spark), Transformação de Dados.
--   **Testes**: Pytest, Jest, React Test Library.
+Academicamente, possuo conhecimento em GitHub Actions para CI/CD, vivência com Docker e Kubernetes em AWS, e habilidades em desenvolvimento backend com Node.js e o framework NestJS.
 
 --------------------------------
 
 ### Formação Acadêmica:
 
-- Cursando Especialização em Machine Learning Engineering pela Fiap;
 - Especialista em Software Architecture pela Fiap;
 - Bacharel em Sistemas de Informação pela Universidade de Mogi das Cruzes;
 
