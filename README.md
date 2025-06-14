@@ -1,10 +1,10 @@
 ## Hello there, I'm Victor.
 
-With over 5 years of experience as a React & React Native Engineer and a career spanning over 14 years as a Software Engineer, I have a strong background in the development and maintenance of front-end web (React.js) and mobile (React Native for Android and iOS) applications. My experience includes creating robust and performant user interfaces using libraries and tools such as React Hooks, Redux, React Navigation and Styled Components. I also have professional experience with Node.js in previous projects.
+With over 14 years of experience as a Software Engineer, including the last 6 years dedicated to React, React Native, Node.js, CI/CD and Kubernetes at Google Cloud. I work as a Full Stack Engineer with a proven track record in building scalable and efficient solutions, mainly using React.js, Node.js, GCP and AWS.
 
-In addition, I have solid skills in implementing and optimizing CI/CD pipelines (Cloud Build, GitLab CI, Bitrise), ensuring efficient software deliveries. My experience extends to container orchestration with Docker and Kubernetes on Google Cloud (GKE), and publishing applications on the Google Play and Apple App Stores.
+My expertise covers the full development cycle, from creating robust web interfaces with React.js and performant mobile applications (Android/iOS with React Native), to backend development with Node.js. I have experience with frameworks such as NestJS and TypeORM for microservices, in addition to working with serverless architectures via Firebase Functions and implementing unit and e2e tests.
 
-Academically, I have experience and skills in CI/CD with GitHub Actions, containerization and orchestration with Docker and Kubernetes in AWS and GCP environments. In backend development, I have experience with Node.js and the NestJS framework, including creating microservices with TypeORM, unit and e2e testing, and continuous deployment automation for AWS. Additionally, I have developed skills in End-to-End MLOps, deploying Machine Learning models in Python (FastAPI, Scikit-learn) on GCP (GKE) and orchestrating everything via GitHub Actions.
+I have strong knowledge in DevOps and automation, with experience in containerization (Docker) and orchestration (Kubernetes), and a solid background in implementing CI/CD pipelines for continuous deployment, with a focus on AWS environments (GitHub Actions), GCP environments (Gitlab CI and Cloud Build) and the Google and Apple app stores (Bitrise).
 
 --------------------------------
 
