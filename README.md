@@ -8,10 +8,10 @@ I have strong knowledge in DevOps and automation, with experience in containeriz
 
 --------------------------------
 
-### Formação Acadêmica:
+### Academic Background:
 
-- Especialista em Software Architecture pela Fiap;
-- Bacharel em Sistemas de Informação pela Universidade de Mogi das Cruzes;
+- Specialist in Software Architecture from Fiap;
+- Bachelor's degree in Information Systems from the University of Mogi das Cruzes;
 
 <br/>
 
