@@ -1,10 +1,10 @@
 ## Hello there, I'm Victor.
 
-With over 14 years of experience as a Software Engineer, including the last 6 years dedicated to React, React Native, Node.js, CI/CD and Kubernetes at Google Cloud. I work as a Full Stack Engineer with a proven track record in building scalable and efficient solutions, mainly using React.js, Node.js, GCP and AWS.
+Full Stack Engineer with over 14 years of experience in software development, with solid experience in React.js (+6 years), Node.js (+3 years), Kubernetes (+2 years), and CI/CD (+4 years).
 
-My expertise covers the full development cycle, from creating robust web interfaces with React.js and performant mobile applications (Android/iOS with React Native), to backend development with Node.js. I have experience with frameworks such as NestJS and TypeORM for microservices, in addition to working with serverless architectures via Firebase Functions and implementing unit and e2e tests.
+My expertise covers the full development cycle, from creating robust web interfaces with React.js to backend development with Node.js. I have experience with frameworks such as NestJS and TypeORM for microservices, as well as working with serverless architectures via Firebase Functions.
 
-I have strong knowledge in DevOps and automation, with experience in containerization (Docker) and orchestration (Kubernetes), and a solid background in implementing CI/CD pipelines for continuous deployment, with a focus on AWS environments (GitHub Actions), GCP environments (Gitlab CI and Cloud Build) and the Google and Apple app stores (Bitrise).
+I have strong knowledge in DevOps and automation, with experience in containerization (Docker) and orchestration (Kubernetes) in GCP and AWS environments, and a solid background in implementing CI/CD pipelines for continuous deployment, with a focus on AWS environments (GitHub Actions), GCP environments (Gitlab CI and Cloud Build), and the Google and Apple app stores (Bitrise).
 
 --------------------------------
 
