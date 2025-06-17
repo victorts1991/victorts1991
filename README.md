@@ -1,6 +1,6 @@
 ## Hello there, I'm Victor.
 
-Full Stack Engineer with over 14 years of experience in software development, with solid experience in React.js (+6 years), Node.js (+3 years), Kubernetes (+3 years), and CI/CD (+4 years).
+Full Stack Engineer with over 14 years of experience in software development, with solid experience in React.js (+6 years), Node.js (+4 years), Kubernetes (+4 years), and CI/CD (+4 years).
 
 My expertise covers the full development cycle, from creating robust web interfaces with React.js to backend development with Node.js. I have experience with frameworks such as NestJS and TypeORM for microservices, as well as working with serverless architectures via Firebase Functions.
 
