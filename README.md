@@ -1,10 +1,13 @@
 ## Hello there, I'm Victor.
 
-Fullstack Software Engineer with over 14 years of experience in software development, with a primary focus on Front-end and strong specialization in React.js (+6 years) and Next.js (+3 years). I also have proven experience in React Native (+6 years), being able to work with both efficiently.
+Fullstack Software Engineer with +14 years of experience, specialized in Node.js (+4 years), React.js (+6 years), CI/CD (+4 years), AWS (+3 years) and Kubernetes (+4 years).
 
-My expertise includes creating robust web and mobile interfaces, and although my focus is Front-end, I have experience in Node.js for back-end development.
+Among the highlighted projects:
 
-I have strong knowledge in DevOps and automation, with experience in containerization (Docker) and orchestration (Kubernetes) in GCP (GKE) and AWS (EKS) environments. I have solid experience in implementing CI/CD pipelines for continuous deployment using GitHub Actions, GitLab CI and Bitrise for Android and iOS applications, as well as cloud environments.
+- Real-Time Incident Notification System: Developed with Node.js, React.js and Firebase Firestore, this system reduced the team's incident response time by 70% and improved problem resolution by 50%;
+- Activity Tracking and Patrol Microservice (Nicbrain): Developed with Node.js, NestJS and MongoDB, to isolate this high-demand functionality, which generated excessive cloud costs. This optimization resulted in a 20% reduction in cloud costs, by reducing the processing power of the main Kubernetes cluster and ensuring scalability via a cluster dedicated to the microservice created;
+
+My DevOps experience includes Docker and Kubernetes, with proficiency in AWS and GCP environments, and CI/CD mastered via GitHub Actions, GitLab CI, Cloud Build and Bitrise. In addition, I am a proactive and innovative professional, with strong adaptability and problem-solving skills, always seeking the best solutions to complex challenges. My experience with Generative AI, including the use of tools such as OpenAI, allows me to explore new technological frontiers and innovative approaches.
 
 --------------------------------
 
