@@ -9,11 +9,11 @@ Among the highlighted projects:
 
 My DevOps experience includes Docker and Kubernetes, with proficiency in AWS and GCP environments, and CI/CD mastered via GitHub Actions, GitLab CI, Cloud Build and Bitrise. In addition, I am a proactive and innovative professional, with strong adaptability and problem-solving skills, always seeking the best solutions to complex challenges. My experience with Generative AI, including the use of tools such as OpenAI, allows me to explore new technological frontiers and innovative approaches.
 
-Technologies: React.js, Next.js, React Native, Redux, Javascript, Typescript, Jest, Node.js, NestJS, Python, Flask, OpenAI, JWT, Git, Docker and Kubernetes;
-Google Cloud: GKE, Cloud SQL and Cloud Build;
-AWS: EKS, RDS, S3, Api Gateway, Lambda, Redshift and Glue;
-Databases: PostgreSQL, MongoDB, Realtime Database and Firestore;
-CI/CD: Github Actions, Cloud Build, Gitlab CI and Bitrise;
+- Technologies: React.js, Next.js, React Native, Redux, Javascript, Typescript, Jest, Node.js, NestJS, Python, Flask, OpenAI, JWT, Git, Docker and Kubernetes;
+- Google Cloud: GKE, Cloud SQL and Cloud Build;
+- AWS: EKS, RDS, S3, Api Gateway, Lambda, Redshift and Glue;
+- Databases: PostgreSQL, MongoDB, Realtime Database and Firestore;
+- CI/CD: Github Actions, Cloud Build, Gitlab CI and Bitrise;
 
 --------------------------------
 
