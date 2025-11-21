@@ -1,19 +1,19 @@
 ## Hello there, I'm Victor.
 
-Fullstack Software Engineer with +14 years of experience, specialized in Node.js (+4 years), React.js (+6 years), CI/CD (+4 years), AWS (+3 years) and Kubernetes (+4 years), with experience in the Information Technology, Education, Property Security and Transportation/Logistics industries.
+Frontend Software Engineer with +14 years of experience, specialized in React.js (+6 years), React Native (+4 years), Next.js (+2 years), CI/CD (+4 years) and Kubernetes (+4 years), with experience in the Information Technology, Education, Property Security and Transportation/Logistics industries.
 
 Among the highlighted projects:
 
-- Real-Time Incident Notification System: Developed with Node.js, React.js and Firebase Firestore, this system reduced the team's incident response time by 70% and improved problem resolution by 50%;
-- Activity Tracking and Patrol Microservice (Nicbrain): Developed with Node.js, NestJS and MongoDB, to isolate this high-demand functionality, which generated excessive cloud costs. This optimization resulted in a 20% reduction in cloud costs, by reducing the processing power of the main Kubernetes cluster and ensuring scalability via a cluster dedicated to the microservice created;
+- Real-Time Incident Notification System: Architected and developed the user interface (UI) using React.js, focusing on a real-time, low-latency experience (via Firebase Firestore integration). The UI's performance and clear data visualization were essential in reducing the team's incident response time by 70% and increasing problem-solving effectiveness by 50%;
+- Web Portal Performance Optimization (Next.js): Provided technical leadership for the migration of a legacy web portal to Next.js, resulting in a significant improvement in Core Web Vitals and boosting the application's SEO score by 35%. Optimized the Time to Interactive (TTI) by 2 seconds using Server-Side Rendering (SSR) to deliver a superior user experience;
 
-My DevOps experience includes Docker and Kubernetes, with proficiency in AWS and GCP environments, and CI/CD mastered via GitHub Actions, GitLab CI, Cloud Build and Bitrise. In addition, I am a proactive and innovative professional, with strong adaptability and problem-solving skills, always seeking the best solutions to complex challenges. My experience with Generative AI, including the use of tools such as OpenAI, allows me to explore new technological frontiers and innovative approaches.
+My extended experience in CI/CD, Docker and Kubernetes (AWS/GCP) allows me to operate as a full-cycle Frontend engineer, understanding the application's lifecycle from development to deployment and observability. I am a proactive and innovative professional who explores technologies like Generative AI (OpenAI) to optimize development processes and approaches.
 
-- Technologies: React.js, Next.js, React Native, Redux, Javascript, Typescript, Jest, Node.js, NestJS, Python, Flask, OpenAI, JWT, Git, Docker and Kubernetes;
-- Google Cloud: GKE, Cloud SQL and Cloud Build;
-- AWS: EKS, RDS, S3, Api Gateway, Lambda, Redshift and Glue;
-- Databases: PostgreSQL, MongoDB, Realtime Database and Firestore;
-- CI/CD: Github Actions, Cloud Build, Gitlab CI and Bitrise;
+Technologies: React.js, Next.js, Tailwind CSS, React Native, Redux, Javascript, Typescript, Jest, Python, Flask, OpenAI, JWT, Git, Docker and Kubernetes;
+Google Cloud: GKE, Cloud SQL and Cloud Build;
+AWS: EKS, RDS and S3;
+Databases: PostgreSQL, MongoDB, Realtime Database and Firestore;
+CI/CD: Github Actions, Cloud Build, Gitlab CI and Bitrise;
 
 --------------------------------
 
