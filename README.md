@@ -9,11 +9,10 @@ Among the highlighted projects:
 
 My extended experience in CI/CD, Docker and Kubernetes (AWS/GCP) allows me to operate as a full-cycle Frontend engineer, understanding the application's lifecycle from development to deployment and observability. I am a proactive and innovative professional who explores technologies like Generative AI (OpenAI) to optimize development processes and approaches.
 
-Technologies: React.js, Next.js, Tailwind CSS, React Native, Redux, Javascript, Typescript, Jest, Python, Flask, OpenAI, JWT, Git, Docker and Kubernetes;
-Google Cloud: GKE, Cloud SQL and Cloud Build;
-AWS: EKS, RDS and S3;
-Databases: PostgreSQL, MongoDB, Realtime Database and Firestore;
-CI/CD: Github Actions, Cloud Build, Gitlab CI and Bitrise;
+- Technologies: React.js, Next.js, Tailwind CSS, React Native, Redux, Javascript, Typescript, Jest, Python, Flask, FastApi, OpenAI, JWT, Git, Docker and Kubernetes;
+- Google Cloud: GKE, Cloud SQL and Cloud Build;
+- Databases: PostgreSQL, MongoDB, Firebase Realtime Database and Firestore;
+- CI/CD: Github Actions, Cloud Build, Gitlab CI and Bitrise;
 
 --------------------------------
 
