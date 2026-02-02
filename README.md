@@ -1,18 +1,22 @@
 ## Hello there, I'm Victor.
 
-Frontend Software Engineer with +14 years of experience, specialized in React.js (+6 years), React Native (+4 years), Next.js (+2 years), CI/CD (+4 years) and Kubernetes (+4 years), with experience in the Information Technology, Education, Property Security and Transportation/Logistics industries.
+Software Engineer with over 14 years of experience in the technology market, developing critical and scalable systems. I have experience in Backend with Node.js/NestJS, Infrastructure Orchestration (Kubernetes/Cloud), and implementing Artificial Intelligence solutions. Throughout my career, I have collaborated on projects in IT, Education, Transportation, and currently in Property Security.
 
-Among the highlighted projects:
+Key Results:
 
-- Real-Time Incident Notification System: Architected and developed the user interface (UI) using React.js, focusing on a real-time, low-latency experience (via Firebase Firestore integration). The UI's performance and clear data visualization were essential in reducing the team's incident response time by 70% and increasing problem-solving effectiveness by 50%;
-- Web Portal Performance Optimization (Next.js): Provided technical leadership for the migration of a legacy web portal to Next.js, resulting in a significant improvement in Core Web Vitals and boosting the application's SEO score by 35%. Optimized the Time to Interactive (TTI) by 2 seconds using Server-Side Rendering (SSR) to deliver a superior user experience;
+- Artificial Intelligence & Automation: Implemented a RAG architecture using OpenAI to automate inquiries regarding condominium rules and procedures. I developed a chatbot that, through user login, automatically identifies the client and restricts the search only to documents relevant to that specific unit, ensuring data security and increasing operational efficiency;
 
-My extended experience in CI/CD, Docker and Kubernetes (AWS/GCP) allows me to operate as a full-cycle Frontend engineer, understanding the application's lifecycle from development to deployment and observability. I am a proactive and innovative professional who explores technologies like Generative AI (OpenAI) to optimize development processes and approaches.
+- Financial Efficiency and Cloud Migration: Acted as the technical lead for migrating development workloads from Google Cloud (GCP) to On-premise infrastructure. This transition resulted in operational savings of approximately R$ 96,000.00 per year, while maintaining stability and team delivery speed;
 
-- Technologies: React.js, Next.js, Tailwind CSS, React Native, Redux, Javascript, Typescript, Jest, Python, Flask, FastApi, OpenAI, JWT, Git, Docker and Kubernetes;
-- Google Cloud: GKE, Cloud SQL and Cloud Build;
-- Databases: PostgreSQL, MongoDB, Firebase Realtime Database and Firestore;
-- CI/CD: Github Actions, Cloud Build, Gitlab CI and Bitrise;
+I excel at bridging the gap between business needs and technical execution. I have experience modernizing legacy systems into modular architectures and am resilient in solving infrastructure issues. I always strive to maintain a collaborative environment.
+
+Tech Stack:
+
+- AI & Agents: LLMs, RAG, LlamaIndex, OpenAI, Prompt Engineering, and Embeddings;
+- Backend & Languages: Node.js (NestJS), Python (Model Training), and TypeScript;
+- Infra & Cloud: Kubernetes (AKS/GKE), Docker, Azure, Google Cloud, and On-premise;
+- Databases: PostgreSQL, MongoDB, and Firestore;
+- DevOps & FinOps: GitHub Actions, GitLab CI, Bitrise, and Cloud Cost Optimization;
 
 --------------------------------
 
