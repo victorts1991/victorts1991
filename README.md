@@ -1,22 +1,23 @@
 ## Hello there, I'm Victor.
 
-Software Engineer with over 14 years of experience in the technology market, developing critical and scalable systems. I have experience in Backend with Node.js/NestJS, Infrastructure Orchestration (Kubernetes/Cloud), and implementing Artificial Intelligence solutions. Throughout my career, I have collaborated on projects in IT, Education, Transportation, and currently in Property Security.
+Software Architect with over 14 years of experience, specializing in designing high-availability systems and scalable architectures. I act as the strategic link between business vision and high-complexity technical execution, focusing on legacy modernization, Cloud-Native orchestration, and AI Engineering.
 
-Key Results:
+Recent Projects:
 
-- Artificial Intelligence & Automation: Implemented a RAG architecture using OpenAI to automate inquiries regarding condominium rules and procedures. I developed a chatbot that, through user login, automatically identifies the client and restricts the search only to documents relevant to that specific unit, ensuring data security and increasing operational efficiency;
+- Hybrid Infrastructure & FinOps: Strategic leadership of the migration of critical ecosystems (Workloads, SQL/NoSQL Databases, and Storage) from GCP to On-premise, generating savings of R$ 96k/year. Architecting the production transition to Microsoft Azure, using Terraform (IaC) and AKS to ensure resilience, high availability, and pipeline unification via Azure Pipelines;
+- Computer Vision: Development of microservices in FastAPI integrated with Azure AI Face API for biometric validation and image quality, with scalable storage in Azure Blob Storage and 100% automated provisioning via IaC;
+- Modernization & Maintenance: Evolution of monolithic architectures in C# ASP.NET to modern microservices in Node.js (NestJS) and Python, ensuring governance through CI/CD (Azure Pipelines);
 
-- Financial Efficiency and Cloud Migration: Acted as the technical lead for migrating development workloads from Google Cloud (GCP) to On-premise infrastructure. This transition resulted in operational savings of approximately R$ 96,000.00 per year, while maintaining stability and team delivery speed;
+Certifications:
 
-I excel at bridging the gap between business needs and technical execution. I have experience modernizing legacy systems into modular architectures and am resilient in solving infrastructure issues. I always strive to maintain a collaborative environment.
+- Microsoft Certified: Azure AI Fundamentals (AI-900);
 
 Tech Stack:
 
-- AI & Agents: LLMs, RAG, LlamaIndex, OpenAI, Prompt Engineering, and Embeddings;
-- Backend & Languages: Node.js (NestJS), Python (Model Training), and TypeScript;
-- Infra & Cloud: Kubernetes (AKS/GKE), Docker, Azure, Google Cloud, and On-premise;
-- Databases: PostgreSQL, MongoDB, and Firestore;
-- DevOps & FinOps: GitHub Actions, GitLab CI, Bitrise, and Cloud Cost Optimization;
+- Languages: Node.js, NestJS, Python, FastAPI, and TypeScript;
+- AI & Cloud: Azure OpenAI, Face API, Azure (AKS), Azure Blob Storage, Terraform, Kubernetes, and Docker;
+- Databases: PostgreSQL and Firestore;
+- CI/CD: GitLab CI, Azure Pipelines, Cloud Build, and Bitrise;
 
 --------------------------------
 
