@@ -1,23 +1,25 @@
 ## Hello there, I'm Victor.
 
-Software Architect with over 14 years of experience, specializing in designing high-availability systems and scalable architectures. I act as the strategic link between business vision and high-complexity technical execution, focusing on legacy modernization, Cloud-Native orchestration, and AI Engineering.
+Engenheiro de Software há 14 anos, movido pela curiosidade de como a tecnologia pode evoluir processos reais. Dedico-me a construir pontes entre a engenharia de sistemas tradicional e as novas possibilidades da IA Aplicada. Minha prioridade é entregar soluções que sejam não apenas inovadoras, mas resilientes, seguras e que façam sentido para o negócio no longo prazo.
+Recentemente, tenho me dedicado a arquitetar ecossistemas que integram LLMs, Busca Vetorial e Visão Computacional sob uma ótica de Infraestrutura como Código (IaC) e Secretless Architecture, garantindo que a inovação em IA não comprometa a governança e a segurança corporativa.
 
-Recent Projects:
+Destaques de Projetos Recentes:
 
-- Hybrid Infrastructure & FinOps: Strategic leadership of the migration of critical ecosystems (Workloads, SQL/NoSQL Databases, and Storage) from GCP to On-premise, generating savings of R$ 96k/year. Architecting the production transition to Microsoft Azure, using Terraform (IaC) and AKS to ensure resilience, high availability, and pipeline unification via Azure Pipelines;
-- Computer Vision: Development of microservices in FastAPI integrated with Azure AI Face API for biometric validation and image quality, with scalable storage in Azure Blob Storage and 100% automated provisioning via IaC;
-- Modernization & Maintenance: Evolution of monolithic architectures in C# ASP.NET to modern microservices in Node.js (NestJS) and Python, ensuring governance through CI/CD (Azure Pipelines);
+- RAG (Retrieval-Augmented Generation) & Busca Vetorial: Desenvolvi um sistema inteligente de alocação logística utilizando LangChain, GPT-4o e Azure AI Search. Implementei pipelines de "AI Enrichment" com geolocalização via Azure Functions/Maps e buscas híbridas (semântica + geoespacial), otimizando decisões complexas com justificativas geradas por IA.
+- Visão Computacional & Shift-Left: Arquitetura de microsserviços em FastAPI integrados à Azure AI Face API para validação biométrica preventiva. A solução reduziu em 60% o volume de chamados ao garantir a qualidade do dado na origem e automatizar o ciclo de vida via Terraform e AKS.
+- Eficiência Operacional: Migração estratégica de ambientes de desenvolvimento para o On-premise, gerando uma economia de R$ 96k/ano.
 
-Certifications:
+Certificações:
 
-- Microsoft Certified: Azure AI Fundamentals (AI-900);
+- Microsoft Certified: Azure AI Fundamentals (AI-900).
 
-Tech Stack:
+Domínio Técnico:
 
-- Languages: Node.js, NestJS, Python, FastAPI, and TypeScript;
-- AI & Cloud: Azure OpenAI, Face API, Azure (AKS), Azure Blob Storage, Terraform, Kubernetes, and Docker;
-- Databases: PostgreSQL and Firestore;
-- CI/CD: GitLab CI, Azure Pipelines, Cloud Build, and Bitrise;
+- Inteligência Artificial: RAG (Retrieval-Augmented Generation), LangChain, OpenAI (GPT-4o, Embeddings), Azure AI Search (Vector Store), Azure AI Face API e Engenharia de Prompt.
+- Ecossistema Cloud-Native: Azure (AKS, ACR, Azure Blob Storage), GCP (GKE), Kubernetes, Docker e Terraform (IaC Modular).
+- Desenvolvimento Backend: Python (FastAPI), Node.js (NestJS, TypeScript), Jest, Pytest e arquitetura de microsserviços.
+- DevOps: GitHub Actions, GitLab CI e Bitrise.
+- Banco de Dados: PostgreSQL, MongoDB e Firestore.
 
 --------------------------------
 
