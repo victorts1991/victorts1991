@@ -25,9 +25,8 @@ Domínio Técnico:
 
 ### Academic Background:
 
-- Specialist in Software Architecture from Fiap;
-- Bachelor's degree in Information Systems from the University of Mogi das Cruzes;
-
+- Especialista em Arquitetura de Software pela Fiap;
+- Bacharel em Sistemas de Informação pela Universidade de Mogi das Cruzes;
 
 --------------------------------
   
