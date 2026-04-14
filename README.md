@@ -5,9 +5,9 @@ Engenheiro de Software com 14 anos de trajetória, especializado na construção
 Ao longo da minha carreira, liderei migrações críticas de nuvem (GCP para Azure), implementei culturas de CI/CD do zero e arquitetei soluções que geraram economias reais de quase R$ 100k/ano em infraestrutura.
 
 O que eu trago para o time:
-• Desenvolvimento Moderno: Domínio em TypeScript (Node/NestJS), Python (FastAPI) e React.js para interfaces de alta performance.
-• Cultura Cloud-Native: Experiência prática em orquestração com Kubernetes (AKS/GKE/EKS), Docker e Infraestrutura como Código (Terraform).
-• IA como Alavanca de Negócio: Aplicação prática de LLMs, RAG e Visão Computacional para resolver problemas reais.
+- Desenvolvimento Moderno: Domínio em TypeScript (Node/NestJS), Python (FastAPI) e React.js para interfaces de alta performance.
+- Cultura Cloud-Native: Experiência prática em orquestração com Kubernetes (AKS/GKE/EKS), Docker e Infraestrutura como Código (Terraform).
+- IA como Alavanca de Negócio: Aplicação prática de LLMs, RAG e Visão Computacional para resolver problemas reais.
 
 Sou movido por resolver problemas complexos com código limpo e infraestrutura automatizada.
 
