@@ -1,29 +1,27 @@
 ## Hello there, I'm Victor.
 
-Engenheiro de Software há 14 anos, movido pela curiosidade de como a tecnologia pode evoluir processos reais. Dedico-me a construir pontes entre a engenharia de sistemas tradicional e as novas possibilidades da IA Aplicada. Minha prioridade é entregar soluções que sejam não apenas inovadoras, mas resilientes, seguras e que façam sentido para o negócio no longo prazo.
-Recentemente, tenho me dedicado a arquitetar ecossistemas que integram LLMs, Busca Vetorial e Visão Computacional sob uma ótica de Infraestrutura como Código (IaC) e Secretless Architecture, garantindo que a inovação em IA não comprometa a governança e a segurança corporativa.
+Engenheiro de Software com 14 anos de trajetória, especializado na construção de ecossistemas escaláveis e resilientes. Minha base sólida em Engenharia de Software me permite transitar com naturalidade entre o desenvolvimento Fullstack (Node.js, Python, React) e a Engenharia de Plataforma (DevOps).
 
-Destaques de Projetos Recentes:
+Ao longo da minha carreira, liderei migrações críticas de nuvem (GCP para Azure), implementei culturas de CI/CD do zero e arquitetei soluções que geraram economias reais de quase R$ 100k/ano em infraestrutura.
 
-- RAG (Retrieval-Augmented Generation) & Busca Vetorial: Desenvolvi um sistema inteligente de alocação logística utilizando LangChain, GPT-4o e Azure AI Search. Implementei pipelines de "AI Enrichment" com geolocalização via Azure Functions/Maps e buscas híbridas (semântica + geoespacial), otimizando decisões complexas com justificativas geradas por IA.
-- Visão Computacional & Shift-Left: Arquitetura de microsserviços em FastAPI integrados à Azure AI Face API para validação biométrica preventiva. A solução reduziu em 60% o volume de chamados ao garantir a qualidade do dado na origem e automatizar o ciclo de vida via Terraform e AKS.
-- Eficiência Operacional: Migração estratégica de ambientes de desenvolvimento para o On-premise, gerando uma economia de R$ 96k/ano.
+O que eu trago para o time:
+• Desenvolvimento Moderno: Domínio em TypeScript (Node/NestJS), Python (FastAPI) e React.js para interfaces de alta performance.
+• Cultura Cloud-Native: Experiência prática em orquestração com Kubernetes (AKS/GKE/EKS), Docker e Infraestrutura como Código (Terraform).
+• IA como Alavanca de Negócio: Aplicação prática de LLMs, RAG e Visão Computacional para resolver problemas reais.
 
-Certificações:
+Sou movido por resolver problemas complexos com código limpo e infraestrutura automatizada.
 
-- Microsoft Certified: Azure AI Fundamentals (AI-900).
+Tech Stack & Expertise:
 
-Domínio Técnico:
-
-- Inteligência Artificial: RAG (Retrieval-Augmented Generation), LangChain, OpenAI (GPT-4o, Embeddings), Azure AI Search (Vector Store), Azure AI Face API e Engenharia de Prompt.
-- Ecossistema Cloud-Native: Azure (AKS, ACR, Azure Blob Storage), GCP (GKE), Kubernetes, Docker e Terraform (IaC Modular).
-- Desenvolvimento Backend: Python (FastAPI), Node.js (NestJS, TypeScript), Jest, Pytest e arquitetura de microsserviços.
-- DevOps: GitHub Actions, GitLab CI e Bitrise.
-- Banco de Dados: PostgreSQL, MongoDB e Firestore.
+- Linguagens & Frameworks: Node.js (NestJS), Python (FastAPI), TypeScript e React.js.
+- Cloud & Infraestrutura (IaC): Azure, GCP, AWS, Terraform e orquestração com Kubernetes (AKS/GKE/EKS).
+- DevOps & CI/CD: GitHub Actions, GitLab CI, Bitrise e Docker.
+- Bancos de Dados: PostgreSQL, MongoDB e Firestore.
+- Inteligência Artificial: Azure AI Services, RAG (Retrieval-Augmented Generation) e LangChain.
 
 --------------------------------
 
-### Academic Background:
+### Formação Acadêmica:
 
 - Especialista em Arquitetura de Software pela Fiap;
 - Bacharel em Sistemas de Informação pela Universidade de Mogi das Cruzes;
