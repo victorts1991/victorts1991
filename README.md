@@ -1,23 +1,17 @@
 ## Hello there, I'm Victor.
+Mais de 14 anos de experiência como engenheiro de software, especializado na construção de ecossistemas escaláveis, resilientes e plataformas cloud-native:
 
-Engenheiro de Software com 14 anos de trajetória, especializado na construção de ecossistemas escaláveis e resilientes. Minha base sólida em Engenharia de Software me permite transitar com naturalidade entre o desenvolvimento Fullstack (Node.js, Python, React) e a Engenharia de Plataforma (DevOps).
+Possuo experiência com:
+- Back end em Node.js (NestJS) e Python (FastAPI);
+- Front end em React.js e React Native;
+- Orquestração cloud-native usando Kubernetes (AKS/GKE/EKS), Docker e Terraform;
+- Ambientes Multi-Cloud, liderando migrações críticas de GCP para Azure;
+- Implementação de soluções com IA usando LLMs, RAG e Visão Computacional (Azure AI Face API);
+- Bancos de dados relacionais e NoSQL como PostgreSQL, MongoDB e Firestore;
+- CI/CD e automação usando GitHub Actions, GitLab CI e Bitrise;
+- Bacharel em Sistemas de Informação com Especialização em Arquitetura de Software;
 
-Ao longo da minha carreira, liderei migrações críticas de nuvem (GCP para Azure), implementei culturas de CI/CD do zero e arquitetei soluções que geraram economias reais de quase R$ 100k/ano em infraestrutura.
-
-O que eu trago para o time:
-- Desenvolvimento Moderno: Domínio em TypeScript (Node/NestJS), Python (FastAPI) e React.js para interfaces de alta performance.
-- Cultura Cloud-Native: Experiência prática em orquestração com Kubernetes (AKS/GKE/EKS), Docker e Infraestrutura como Código (Terraform).
-- IA como Alavanca de Negócio: Aplicação prática de LLMs, RAG e Visão Computacional para resolver problemas reais.
-
-Sou movido por resolver problemas complexos com código limpo e infraestrutura automatizada.
-
-Tech Stack & Expertise:
-
-- Linguagens & Frameworks: Node.js (NestJS), Python (FastAPI), TypeScript e React.js.
-- Cloud & Infraestrutura (IaC): Azure, GCP, AWS, Terraform e orquestração com Kubernetes (AKS/GKE/EKS).
-- DevOps & CI/CD: GitHub Actions, GitLab CI, Bitrise e Docker.
-- Bancos de Dados: PostgreSQL, MongoDB e Firestore.
-- Inteligência Artificial: Azure AI Services, RAG (Retrieval-Augmented Generation) e LangChain.
+Sou movido pela resolução de problemas complexos com código limpo e infraestrutura automatizada. Possuo um histórico comprovado na otimização de custos — alcançando economias de quase R$ 100 mil/ano — e na melhoria da eficiência operacional por meio de automação inteligente e modernização arquitetural.
 
 --------------------------------
 
